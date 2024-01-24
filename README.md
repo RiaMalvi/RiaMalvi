@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/11uzK1q8gfRwmWJgES7gxrNUcK2qvTPZ5/view?usp=drive_link](https://drive.google.com/file/d/11uzK1q8gfRwmWJgES7gxrNUcK2qvTPZ5/view?usp=drive_link)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me on:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ria_malvi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ria_malvi" height="30" width="40" /></a>
 <a href="https://instagram.com/ria__malvi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ria__malvi" height="30" width="40" /></a>
