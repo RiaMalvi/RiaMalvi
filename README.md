@@ -1,6 +1,6 @@
 [![Masterhead](https://raw.githubusercontent.com/mosh3eb/Portfolio_Page/main/images/bg.gif)](https://RiaMalvi.io)
 <h1 align="center">Hi 👋, I'm Ria</h1>
-<h3 align="center">An adept Web Developer fueled by passion and based in India.</h3>
+<h3 align="center">A passionate Web Developer based in India.</h3>
 <!-- <img align="right" alt="coding" width="400" src="https://i.imgflip.com/5yauub.gif">
  -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riamalvi&label=Profile%20views&color=0e75b6&style=flat" alt="riamalvi" /> </p>
